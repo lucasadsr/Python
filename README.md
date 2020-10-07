@@ -6,4 +6,5 @@
    * 🔢Simulador de Dados
    * ✖️Tabuada
    * ⬇️Contagem Regressiva
+   * 🔺Triângulo
 <!--te-->
