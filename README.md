@@ -5,4 +5,5 @@
    * 🦠Covid-19 (Apuração de Dados)
    * 🔢Simulador de Dados
    * ✖️Tabuada
+   * ⬇️Contagem Regressiva
 <!--te-->
