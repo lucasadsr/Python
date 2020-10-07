@@ -1,2 +1,2 @@
 # Python
- Projetos feitos em Python
+* Projetos feitos em Python
