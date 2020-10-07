@@ -1,6 +1,5 @@
 # Python
 ## Projetos feitos em Python
-=================
 <!--ts-->
    * Chute um Valor
    * Covid-19 (Apuração de Dados)
